@@ -1,0 +1,10 @@
+{
+  "name": "blazetv",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server2/packet.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
